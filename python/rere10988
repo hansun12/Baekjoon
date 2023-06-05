@@ -1,0 +1,12 @@
+word = list(input())
+# temp = word.copy()
+temp = []
+for i in range(len(word) - 1, -1, -1):
+    # temp[i] = word[i]
+    temp.append(word[i])
+# print(temp)
+
+if word == temp:
+    print(1)
+else:
+    print(0)
