@@ -9,8 +9,6 @@
 
 백준 문제 정리
 
----
-
 ## 언어 선택
 
 - [JAVA](https://github.com/hansun12/Baekjoon/tree/main/java "github")
