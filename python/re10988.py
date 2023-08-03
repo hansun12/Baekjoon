@@ -1,8 +1,3 @@
-word = list(input())
-temp = word.copy()
-word.reverse()
+word = input()
 
-if word == temp:
-    print(1)
-else:
-    print(0)
+for i in range(len(word) / 2 + 1)

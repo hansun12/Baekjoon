@@ -1,0 +1,7 @@
+chess = [1, 1, 2, 2, 2, 8]
+
+found_chess = list(map(int, input().split()))
+
+for i in range(6):
+    print(chess[i] - found_chess[i], end=" ")
+print()

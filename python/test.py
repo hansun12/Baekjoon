@@ -1,6 +1,6 @@
-l = [1, 2, 3, 4, 5]
-temp = []
-a = 1
-b = 5
-temp = l[a - 1 : b]
+word = list(input())
+temp = word
+word.reverse()
+temp = [1, 2, 3]
+print(word)
 print(temp)
